@@ -1,0 +1,1 @@
+.\out\build\x64-debug\RaytracingNehuel1\RaytracingNehuel1.exe > image.ppm
