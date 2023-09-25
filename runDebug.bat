@@ -1,1 +1,1 @@
-.\out\build\x64-debug\RaytracingNehuel1\RaytracingNehuel1.exe > image.ppm
+.\out\build\x64-debug\uncooked-tracer\uncooked-tracer.exe > image.ppm

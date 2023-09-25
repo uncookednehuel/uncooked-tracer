@@ -10,11 +10,5 @@
       "out\\build\\x86-release",
       "out\\install\\x86-release"
     ]
-  },
-  "ExpandedNodes": [
-    "",
-    "\\RaytracingNehuel1"
-  ],
-  "SelectedNode": "\\RaytracingNehuel1\\CMakeLists.txt",
-  "PreviewInSolutionExplorer": false
+  }
 }
