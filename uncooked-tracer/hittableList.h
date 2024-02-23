@@ -22,13 +22,13 @@ public:
 		objects.push_back(object);
 	}
 
-	bool hit(const ray& r, double rayTMin, double rayTMax, hitRecord& rec) const override {
+	bool hit(const ray& r, interval rayT, hitRecord& rec) const override {
 		hitRecord tempRec;
 		bool hitAnything = false;
-		auto closestYet = rayTMax;
+		auto closestYet = rayT.max;
 
 		for (const auto& object : objects) {
-			if (object->hit(r, rayTMin, closestYet, tempRec)) {
+			if (object->hit(r, interval(rayT.min, closestYet), tempRec)) {
 				hitAnything = true;
 				closestYet = tempRec.t;
 				rec = tempRec;

@@ -1,7 +1,5 @@
 # ninja log v5
-10	651	7294119684715742	uncooked-tracer/CMakeFiles/uncooked-tracer.dir/uncooked-tracer.cpp.obj	ad6fcdf1c94cbb3a
-652	766	7294119685546821	uncooked-tracer/uncooked-tracer.exe	2ea96f885684981c
-3	826	7295554712188002	uncooked-tracer/CMakeFiles/uncooked-tracer.dir/uncooked-tracer.cpp.obj	ad6fcdf1c94cbb3a
-827	1027	7295554713720293	uncooked-tracer/uncooked-tracer.exe	2ea96f885684981c
-10	955	7295560813685191	uncooked-tracer/CMakeFiles/uncooked-tracer.dir/uncooked-tracer.cpp.obj	ad6fcdf1c94cbb3a
-956	1077	7295560814567493	uncooked-tracer/uncooked-tracer.exe	2ea96f885684981c
+20	874	7304047288496332	uncooked-tracer/CMakeFiles/uncooked-tracer.dir/uncooked-tracer.cpp.obj	ad6fcdf1c94cbb3a
+875	1109	7304047290285578	uncooked-tracer/uncooked-tracer.exe	2ea96f885684981c
+2	546	7304103797721067	uncooked-tracer/CMakeFiles/uncooked-tracer.dir/uncooked-tracer.cpp.obj	ad6fcdf1c94cbb3a
+547	696	7304103798890748	uncooked-tracer/uncooked-tracer.exe	2ea96f885684981c

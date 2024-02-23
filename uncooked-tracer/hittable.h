@@ -21,7 +21,7 @@ class hittable {
 public:
 	virtual ~hittable() = default;
 
-	virtual bool hit(const ray& r, double rayTMin, double rayTMax, hitRecord& rec) const = 0;
+	virtual bool hit(const ray& r, interval rayT, hitRecord& rec) const = 0;
 };
 
 #endif
